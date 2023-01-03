@@ -9,13 +9,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/aslamadigun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aslamadigun" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aslam-dhikrullahi-473389185" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aslam-dhikrullahi-473389185" height="30" width="40" /></a>
-<a href="https://fb.com/adigun.adepoju.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adigun.adepoju.9" height="30" width="40" /></a>
-<a href="https://instagram.com/dh.aslam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dh.aslam" height="30" width="40" /></a>
-<a href="https://dribbble.com/daslam" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/4494/4494569.png" alt="daslam" height="20" width="20" /></a>
-<a href="https://www.behance.net/dhikrulaslam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="dhikrulaslam" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@adtec_exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="adtec_exe" height="30" width="40" /></a>
+<a href="https://twitter.com/aslamadigun" target="blank"><img align="center" src="twitter.png" alt="aslamadigun" height="25" width="25" /></a>
+<a href="https://linkedin.com/in/aslam-dhikrullahi-473389185" target="blank"><img align="center" src="linkedin.png" alt="aslam-dhikrullahi-473389185" height="25" width="25" /></a>
+<a href="https://fb.com/adigun.adepoju.9" target="blank"><img align="center" src="facebook.png" alt="adigun.adepoju.9" height="25" width="25" /></a>
+<a href="https://instagram.com/dh.aslam" target="blank"><img align="center" src="instagram.png" alt="dh.aslam" height="25" width="25" /></a>
+<a href="https://dribbble.com/daslam" target="blank"><img align="center" src="dribble.png" alt="daslam" height="25" width="25" /></a>
+<a href="https://www.behance.net/dhikrulaslam" target="blank"><img align="center" src="behance.png" alt="dhikrulaslam" height="25" width="25" /></a>
+<a href="https://www.youtube.com/@adtec_exe" target="blank"><img align="center" src="youtube.png" alt="adtec_exe" height="25" width="25" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
