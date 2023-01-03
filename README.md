@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Aslam Dhikrullahi</h1>
-<h3 align="center">A designer and aspiring developer.</h3>
-
+<!-- banner -->
+<img src="D. ASLAM DES&DEV.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aslam-adigun&label=Profile%20views&color=0e75b6&style=flat" alt="aslam-adigun" /> </p>
+
+<h2 align="left">Hi 👋, I'm Aslam Dhikrullahi</h2><h3 align="left">A designer and aspiring developer.</h3>
 
 - 🔭 I’m interested in **using code to create design.**
 - 🌱 I’m currently learning **HTML, CSS, JavaScript & Python.**
