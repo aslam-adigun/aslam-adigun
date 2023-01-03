@@ -13,7 +13,7 @@
 <a href="https://linkedin.com/in/aslam-dhikrullahi-473389185" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aslam-dhikrullahi-473389185" height="30" width="40" /></a>
 <a href="https://fb.com/adigun.adepoju.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adigun.adepoju.9" height="30" width="40" /></a>
 <a href="https://instagram.com/dh.aslam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dh.aslam" height="30" width="40" /></a>
-<a href="https://dribbble.com/daslam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="daslam" height="30" width="40" /></a>
+<a href="https://dribbble.com/daslam" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/4494/4494569.png" alt="daslam" height="20" width="20" /></a>
 <a href="https://www.behance.net/dhikrulaslam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="dhikrulaslam" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@adtec_exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="adtec_exe" height="30" width="40" /></a>
 </p>
