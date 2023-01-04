@@ -26,6 +26,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aslam-adigun&show_icons=true&locale=en" alt="aslam-adigun" /></p>
 
+<!-- Footer -->
+<img src="https://github.com/amajaying/amajaying/blob/main/D. ASLAM DES&DEV FOOTER.png">
 
 <!---
 aslam-adigun/aslam-adigun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
