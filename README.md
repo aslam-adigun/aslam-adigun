@@ -24,7 +24,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aslam-adigun&show_icons=true&locale=en&theme=dark&bg_color=0d1117&border_color=292e35&layout=compact&langs_count=10" alt="aslam-adigun" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aslam-adigun&show_icons=true&locale=en&bg_color=0d1117&border_color=292e35&title_color=ffffff&text_color=919191&ring_color=0579C3&hide_rank=true" alt="aslam-adigun" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aslam-adigun&show_icons=true&locale=en&bg_color=0d1117&border_color=292e35&title_color=ffffff&text_color=919191&ring_color=0579C3&line_height=28.1&card_width=480px" alt="aslam-adigun" /></p>
 <br>
 <img src="D. ASLAM DES&DEV FOOTER.png">
 
