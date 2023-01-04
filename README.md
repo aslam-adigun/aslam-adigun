@@ -26,7 +26,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aslam-adigun&show_icons=true&locale=en&bg_color=0d1117&border_color=292e35&title_color=ffffff&text_color=919191&ring_color=0579C3" alt="aslam-adigun" /></p>
 
-<!-- Footer -->
 <img src="D. ASLAM DES&DEV FOOTER.png">
 
 <!---
