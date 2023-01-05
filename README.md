@@ -8,6 +8,9 @@
 - 🌱 I’m currently learning **HTML, CSS, JavaScript & Python.**
 - 📫 Reach me on **a.adepoju23@gmail.com**
 
+<h3 align="left">Bio:</h3>
+<p align="left">As a designer with a passion for creating visually stunning and user-friendly experiences, I have recently begun learning front-end development to expand my skillset and bring my designs to life. With a strong foundation in design principles and a desire to constantly improve and learn, I am excited to combine my creative and technical abilities to create exceptional websites and applications.</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aslamadigun" target="blank"><img align="center" src="twitter.png" alt="aslamadigun" height="25" width="25" /></a>
