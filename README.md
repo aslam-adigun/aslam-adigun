@@ -1,8 +1,11 @@
 <!-- banner -->
 <img src="D. ASLAM DES&DEV.png">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aslam-adigun&label=Profile%20views&color=0e75b6&style=flat" alt="aslam-adigun" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aslam-adigun&label=Profile%20views&color=0e75b6&style=flat" alt="aslam-adigun" /> <a href="https://www.github.com/aslam-adigun" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/aslam-adigun?logo=github&style=flat&color=0e75b6&labelColor=grey" /></a> </p>
 
-<h2 align="left">Hi 👋, I'm Aslam Dhikrullahi</h2><h3 align="left">A designer and aspiring developer.</h3>
+
+
+
+<h2 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>, I'm Aslam Dhikrullahi</h2><h3 align="left">A designer and aspiring developer.</h3>
 
 - 🔭 I’m interested in **using code to create design.**
 - 🌱 I’m currently learning **HTML, CSS, JavaScript & Python.**
